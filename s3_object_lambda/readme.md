@@ -6,7 +6,7 @@ Soon...
 
 # List of demo folder
 - [ ] **augment_tweet**: get extent data of tweet using DynamoDB.
-- [ ] **custom_format_and_resize_image_by_url**: get custome image by specify format or/and size.
+- [x] **custom_format_and_resize_image_by_url**: get custome image by specify format and size.
 - [ ] **extract_text_from_image**: get text from image.
 
 # Event
